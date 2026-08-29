@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently building **B2B SaaS products like CityScape AI and AgroHub**<br>👨‍💻 I recently developed **MDEatOS**, a RESTful API for restaurant automation<br>🌱 I’m currently diving deeper into **Spring Security, JavaScript, React**<br>🏆 Proud winner: **1st place at AITUCAP2026 Hackathon**<br>👯 Always open to collaborate on **Hackathons** and challenging product ideas<br>📫 How to reach me: **naidanov.miron@mail.ru**
+🔭 I’m currently building **B2B SaaS products like CityScape AI and AgroHub**<br>👨‍💻 I recently developed backend for **MDEatOS**, a RESTful API for restaurant automation<br>🌱 I’m currently diving deeper into **Spring Security, JavaScript, React**<br>🏆 Proud winner: **1st place at AITUCAP2026 Hackathon**<br>👯 Always open to collaborate on **Hackathons** and challenging product ideas<br>📫 How to reach me: **naidanov.miron@mail.ru**
 
 
 ## 🌐 Socials:
