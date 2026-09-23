@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently building **B2B SaaS product called FraudSeeker**<br>👨‍💻 I recently started to develop backend for **FraudSeeker**, a RESTful API service to seek fraud transactions with Random Forest Classifier<br>🌱 I’m currently diving deeper into **ML, Data Science, Docker**<br>🏆 Proud winner: **1st place at AITUCAP2026 Hackathon**<br>👯 Always open to collaborate on **Hackathons** and challenging product ideas<br>📫 How to reach me: **naidanov.miron@mail.ru**
+🔭 I’m currently building **B2B SaaS product called EHTdigit**<br>👨‍💻 I recently developed backend for **EHTdigit**, a RESTful API service to seek fraud transactions with Random Forest Classifier<br>🌱 I’m currently diving deeper into **ML, Data Science, Docker**<br>🏆 Proud winner: **1st place at AITUCAP2026 Hackathon**<br>👯 Always open to collaborate on **Hackathons** and challenging product ideas<br>📫 How to reach me: **naidanov.miron@mail.ru**
 
 
 ## 🌐 Socials:
