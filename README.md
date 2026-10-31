@@ -79,7 +79,3 @@
   <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=DerMaven&theme=default&hide_border=true" alt="GitHub Streak" />
 </div>
-![](https://streak-stats.demolab.com/?user=DerMaven&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=DerMaven&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
