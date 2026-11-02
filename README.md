@@ -79,8 +79,6 @@
 
 <h3 align="center">📊 Stats 🌵</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DerMaven&theme=default&hide_border=true&layout=compact" alt="Top Languages" height="165" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=DerMaven&theme=default&hide_border=true" alt="GitHub Streak" />
-</div>
+![](https://github-readme-stats.shion.dev/api?username=DerMaven&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=DerMaven&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=DerMaven&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
