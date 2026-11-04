@@ -1,5 +1,5 @@
 <h1 align="center">
-  🏜️ Howdy, I'm DerMaven 🏜️
+  🏜️ Howdy mate, I'm DerMaven 🏜️
 </h1>
 
 <p align="center">
