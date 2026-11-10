@@ -8,12 +8,12 @@
 
 ### 🛢️ Highlights 🛢️
 
-- 🐴 **Current Deployment:** Engineering a B2B SaaS platform **<i>BookARoom</i>** for high-concurrency reservation workflows.
-- 🌵 **ML & Security Ops:** Designed and launched the core backend for **FraudSeeker**, a RESTful API leveraging Random Forest Classifiers for real-time transactional fraud detection.
-- ⚙️ Mastering **System Design**, distributed caching via **Redis**, and fault-tolerant **Microservices Architecture**.
-- 🏆 Secured **1st Place at AITUCAP2026 Hackathon** 🥇
-- 📻 Open to collaboration on complex, **High-Load backend architectures**.
-- ✉️ Reach out directly at [`naidanov.miron@mail.ru`](mailto:naidanov.miron@mail.ru)
+-  **Current Deployment:** Engineering a B2B SaaS platform **<i>BookARoom</i>** for high-concurrency reservation workflows.
+-  **ML & Security Ops:** Designed and launched the core backend for **FraudSeeker**, a RESTful API leveraging Random Forest Classifiers for real-time transactional fraud detection.
+-  Mastering **System Design**, distributed caching via **Redis**, and fault-tolerant **Microservices Architecture**.
+-  Secured **1st Place at AITUCAP2026 Hackathon** 🥇
+-  Open to collaboration on complex, **High-Load backend architectures**.
+-  Reach out directly at [`naidanov.miron@mail.ru`](mailto:naidanov.miron@mail.ru)
 
 ---
 
