@@ -1,12 +1,8 @@
 <h1 align="center">
-  🏜️ Howdy mate, I'm DerMaven 🏜️
+  Greetings mate, I'm DerMaven
 </h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Flex&weight=800&duration=2000&pause=1000&color=DC382D&center=true&random=true&width=435&lines=High-Load+Backend+Software+Engineer" alt="Typing SVG" /></a>
-</p>
-
-### 🛢️ Highlights 🛢️
+### Highlights
 
 -  **Current Deployment:** Engineering a B2B SaaS platform **<i>BookARoom</i>** for high-concurrency reservation workflows.
 -  **ML & Security Ops:** Designed and launched the core backend for **FraudSeeker**, a RESTful API leveraging Random Forest Classifiers for real-time transactional fraud detection.
@@ -17,7 +13,7 @@
 
 ---
 
-<h3 align="center">🪕 Socials Array 📻</h3>
+<h3 align="center"> Socials Array </h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/miron-naidanov-b904073bb/?isSelfProfile=true" target="_blank">
@@ -39,7 +35,7 @@
 
 ---
 
-<h3 align="center">🧰 Tech Arsenal 🧰</h3>
+<h3 align="center"> Tech Arsenal </h3>
 
 <div align="center">
 
@@ -77,7 +73,7 @@
 
 ---
 
-<h3 align="center">📊 Stats 🌵</h3>
+<h3 align="center"> Stats </h3>
 
 ![](https://github-readme-stats.shion.dev/api?username=DerMaven&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=DerMaven&theme=default&hide_border=false)<br/>
